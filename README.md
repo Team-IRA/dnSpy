@@ -23,8 +23,6 @@ dnSpy uses the ILSpy decompiler engine and the Roslyn (C# / Visual Basic) compil
 
 # Binaries
 
-[Latest release](https://github.com/0xd4d/dnSpy/releases)
-
 Latest build: [![](https://github.com/Team-IRA/dnSpy/workflows/GitHub%20CI/badge.svg)](https://github.com/Team-IRA/dnSpy/actions)
 
 Or build it from source, see the [Wiki](https://github.com/0xd4d/dnSpy/wiki/Building-dnSpy).
